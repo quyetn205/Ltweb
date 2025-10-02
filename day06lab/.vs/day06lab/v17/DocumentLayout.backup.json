@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\webki1\\bainopweb\\day06lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|d:\\webki1\\bainopweb\\day06lab\\day06lab\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|solutionrelative:day06lab\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|d:\\webki1\\bainopweb\\day06lab\\day06lab\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|solutionrelative:day06lab\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|d:\\webki1\\bainopweb\\day06lab\\day06lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|solutionrelative:day06lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|d:\\webki1\\bainopweb\\day06lab\\day06lab\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|solutionrelative:day06lab\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|d:\\webki1\\bainopweb\\day06lab\\day06lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|solutionrelative:day06lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|d:\\webki1\\bainopweb\\day06lab\\day06lab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E176467-4949-4222-AA0E-FBD0BCA27951}|day06lab\\day06lab.csproj|solutionrelative:day06lab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "day06lab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "day06lab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T13:12:38.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "day06lab\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "day06lab\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T13:06:56.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "day06lab\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "day06lab\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T13:03:46.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "day06lab\\Models\\Student.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Models\\Student.cs",
+              "RelativeToolTip": "day06lab\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:00:59.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "day06lab\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "day06lab\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:59:48.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "day06lab\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\day06lab\\day06lab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "day06lab\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:59:11.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
