@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\webki1\\bainopweb\\day09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|d:\\webki1\\bainopweb\\day09\\day09\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|solutionrelative:day09\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|d:\\webki1\\bainopweb\\day09\\day09\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|solutionrelative:day09\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|d:\\webki1\\bainopweb\\day09\\day09\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|solutionrelative:day09\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|d:\\webki1\\bainopweb\\day09\\day09\\models\\shoppingcartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|solutionrelative:day09\\models\\shoppingcartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|d:\\webki1\\bainopweb\\day09\\day09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|solutionrelative:day09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|d:\\webki1\\bainopweb\\day09\\day09\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B84A8E7-2494-444A-8873-7C65E3C1A562}|day09\\day09.csproj|solutionrelative:day09\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day09\\day09\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "day09\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\day09\\day09\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "day09\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:08:37.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day09\\day09\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "day09\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\day09\\day09\\Models\\KhachHang.cs",
+              "RelativeToolTip": "day09\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:08:28.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day09\\day09\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "day09\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\day09\\day09\\Models\\HoaDon.cs",
+              "RelativeToolTip": "day09\\Models\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:08:09.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingcartContext.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day09\\day09\\Models\\ShoppingcartContext.cs",
+              "RelativeDocumentMoniker": "day09\\Models\\ShoppingcartContext.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\day09\\day09\\Models\\ShoppingcartContext.cs",
+              "RelativeToolTip": "day09\\Models\\ShoppingcartContext.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAUwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:06:55.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day09\\day09\\appsettings.json",
+              "RelativeDocumentMoniker": "day09\\appsettings.json",
+              "ToolTip": "D:\\webki1\\bainopweb\\day09\\day09\\appsettings.json",
+              "RelativeToolTip": "day09\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T02:01:12.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\day09\\day09\\Program.cs",
+              "RelativeDocumentMoniker": "day09\\Program.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\day09\\day09\\Program.cs",
+              "RelativeToolTip": "day09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:01:09.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
