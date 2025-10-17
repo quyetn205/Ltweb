@@ -1,0 +1,37 @@
+﻿@model NmqDay09LabCF.Models.NmqLoai_San_Pham
+
+@{
+    ViewData["Title"] = "Chi tiết loại sản phẩm";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm border-0 rounded-3">
+        <div class="card-header bg-info text-white text-center">
+            <h4 class="mb-0">Chi tiết loại sản phẩm</h4>
+        </div>
+
+        <div class="card-body">
+            <dl class="row px-3 mb-0">
+                <dt class="col-sm-3 fw-semibold">Mã loại</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.nmqMaLoai)</dd>
+
+                <dt class="col-sm-3 fw-semibold">Tên loại</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.nmqTenLoai)</dd>
+
+                <dt class="col-sm-3 fw-semibold">Trạng thái</dt>
+                <dd class="col-sm-9">
+                    @(Model.nmqTrangThai ? "Đang hoạt động" : "Ngừng hoạt động")
+                </dd>
+            </dl>
+
+            <div class="d-flex justify-content-center gap-3 mt-4">
+                <a asp-action="Edit" asp-route-id="@Model?.nmqId" class="btn btn-warning px-4">
+                    ✏️ Chỉnh sửa
+                </a>
+                <a asp-action="nmqIndex" class="btn btn-outline-secondary px-4">
+                    ← Quay lại danh sách
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

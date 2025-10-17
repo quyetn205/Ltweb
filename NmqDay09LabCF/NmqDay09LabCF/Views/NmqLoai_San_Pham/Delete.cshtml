@@ -1,0 +1,52 @@
+﻿@model NmqDay09LabCF.Models.NmqLoai_San_Pham
+
+@{
+    ViewData["Title"] = "Xóa loại sản phẩm";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm border-0 rounded-3">
+        <div class="card-header bg-danger text-white text-center">
+            <h4 class="mb-0">Xác nhận xóa loại sản phẩm</h4>
+        </div>
+
+        <div class="card-body">
+            <p class="text-center text-muted mb-4">
+                Bạn có chắc chắn muốn xóa loại sản phẩm này không?
+                <strong>Hành động này không thể hoàn tác.</strong>
+            </p>
+
+            <dl class="row px-3">
+                <dt class="col-sm-3 fw-semibold">Mã loại</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.nmqMaLoai)</dd>
+
+                <dt class="col-sm-3 fw-semibold">Tên loại</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.nmqTenLoai)</dd>
+
+                <dt class="col-sm-3 fw-semibold">Trạng thái</dt>
+                <dd class="col-sm-9">
+                    @(Model.nmqTrangThai ? "Đang hoạt động" : "Ngừng hoạt động")
+                </dd>
+            </dl>
+
+            <form asp-action="Delete" class="mt-4">
+                <input type="hidden" asp-for="nmqId" />
+
+                <div class="d-flex justify-content-center gap-3">
+                    <button type="submit" class="btn btn-danger px-4">
+                        🗑️ Xóa
+                    </button>
+                    <a asp-action="nmqIndex" class="btn btn-outline-secondary px-4">
+                        ← Quay lại danh sách
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
