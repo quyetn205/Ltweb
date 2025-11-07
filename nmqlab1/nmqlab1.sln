@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nmqlab1", "nmqlab1\nmqlab1.csproj", "{B143D0D9-0E26-4FCE-9641-796116ADC5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B143D0D9-0E26-4FCE-9641-796116ADC5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B143D0D9-0E26-4FCE-9641-796116ADC5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B143D0D9-0E26-4FCE-9641-796116ADC5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B143D0D9-0E26-4FCE-9641-796116ADC5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1EBA218-B1C6-4919-8922-E39414B12AF8}
+	EndGlobalSection
+EndGlobal
