@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\webki1\\bainopweb\\nmqlab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|d:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900EB0D-C737-4C2D-A546-5E3A4D03F9F5}|nmqlab4\\nmqlab4.csproj|solutionrelative:nmqlab4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Learner\\Delete.cshtml",
+              "RelativeDocumentMoniker": "nmqlab4\\Views\\Learner\\Delete.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Learner\\Delete.cshtml*",
+              "RelativeToolTip": "nmqlab4\\Views\\Learner\\Delete.cshtml*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T15:02:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Learner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "nmqlab4\\Views\\Learner\\Edit.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Learner\\Edit.cshtml",
+              "RelativeToolTip": "nmqlab4\\Views\\Learner\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T14:51:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "nmqlab4\\Data\\SchoolContext.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "nmqlab4\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA9wBMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:59:36.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "nmqlab4\\Controllers\\LearnerController.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Controllers\\LearnerController.cs*",
+              "RelativeToolTip": "nmqlab4\\Controllers\\LearnerController.cs*",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAWwGgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:21:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "nmqlab4\\Models\\Learner.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Models\\Learner.cs",
+              "RelativeToolTip": "nmqlab4\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:35:32.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "nmqlab4\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "nmqlab4\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T14:23:04.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Learner\\Create.cshtml",
+              "RelativeDocumentMoniker": "nmqlab4\\Views\\Learner\\Create.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Learner\\Create.cshtml",
+              "RelativeToolTip": "nmqlab4\\Views\\Learner\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T14:41:36.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "nmqlab4\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "nmqlab4\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwD4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:02:04.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "nmqlab4\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Models\\Enrollment.cs",
+              "RelativeToolTip": "nmqlab4\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:36:22.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nmqlab4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nmqlab4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T14:29:50.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "nmqlab4\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "nmqlab4\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T14:29:45.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "nmqlab4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "nmqlab4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T14:29:43.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\appsettings.json",
+              "RelativeDocumentMoniker": "nmqlab4\\appsettings.json",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\appsettings.json",
+              "RelativeToolTip": "nmqlab4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T12:31:08.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Program.cs",
+              "RelativeDocumentMoniker": "nmqlab4\\Program.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Program.cs",
+              "RelativeToolTip": "nmqlab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:31:03.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "nmqlab4\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "nmqlab4\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:43:17.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "nmqlab4\\Models\\Course.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Models\\Course.cs",
+              "RelativeToolTip": "nmqlab4\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:36:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Major.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "nmqlab4\\Models\\Major.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab4\\nmqlab4\\Models\\Major.cs",
+              "RelativeToolTip": "nmqlab4\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:33:40.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
