@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\webki1\\bainopweb\\nmqlab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -75,16 +83,8 @@
       "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|solutionrelative:nmqlab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B143D0D9-0E26-4FCE-9641-796116ADC5E5}|nmqlab1\\nmqlab1.csproj|d:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,21 +106,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "bootstrap-utilities.css",
-              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "RelativeDocumentMoniker": "nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "RelativeToolTip": "nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-07T11:16:38.864Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -139,7 +126,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "nmqlab1\\Models\\Student.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Models\\Student.cs",
+              "RelativeToolTip": "nmqlab1\\Models\\Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAwwBYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:34:59.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "nmqlab1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "nmqlab1\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T00:55:22.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "nmqlab1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "nmqlab1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T00:46:36.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LeftMenu.cshtml",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Shared\\LeftMenu.cshtml",
               "RelativeDocumentMoniker": "nmqlab1\\Views\\Shared\\LeftMenu.cshtml",
@@ -147,25 +173,11 @@
               "RelativeToolTip": "nmqlab1\\Views\\Shared\\LeftMenu.cshtml",
               "ViewState": "AgIAAC4AAAAAAAAAAAAcwEoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T09:45:12.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T09:45:12.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "style.css",
-              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "nmqlab1\\wwwroot\\css\\style.css",
-              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "nmqlab1\\wwwroot\\css\\style.css",
-              "ViewState": "AgIAADgyAAAAAAAAAAAIwDsyAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-07T09:34:22.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "nmqlab1\\wwwroot\\css\\site.css",
@@ -173,12 +185,11 @@
               "RelativeToolTip": "nmqlab1\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-07T11:01:03.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T11:01:03.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TopNav.cshtml",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Shared\\TopNav.cshtml",
               "RelativeDocumentMoniker": "nmqlab1\\Views\\Shared\\TopNav.cshtml",
@@ -186,12 +197,11 @@
               "RelativeToolTip": "nmqlab1\\Views\\Shared\\TopNav.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T09:43:43.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T09:43:43.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MyLayout.cshtml",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Shared\\MyLayout.cshtml",
               "RelativeDocumentMoniker": "nmqlab1\\Views\\Shared\\MyLayout.cshtml",
@@ -199,25 +209,48 @@
               "RelativeToolTip": "nmqlab1\\Views\\Shared\\MyLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T09:23:45.18Z",
+              "WhenOpened": "2025-11-07T09:23:45.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-07T11:16:38.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "nmqlab1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "nmqlab1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwF0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:39:22.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "nmqlab1\\Views\\Student\\Index.cshtml",
-              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "nmqlab1\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T00:46:36.631Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "nmqlab1\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "nmqlab1\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAADgyAAAAAAAAAAAIwDsyAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-07T09:34:22.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "bootstrap-reboot.css",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
               "RelativeDocumentMoniker": "nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
@@ -225,12 +258,11 @@
               "RelativeToolTip": "nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-07T11:16:36.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T11:16:36.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "bootstrap-grid.css",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
               "RelativeDocumentMoniker": "nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -238,25 +270,11 @@
               "RelativeToolTip": "nmqlab1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-07T11:16:33.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T11:16:33.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "nmqlab1\\Views\\Student\\Create.cshtml",
-              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "nmqlab1\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAcwEsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T00:55:22.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "nmqlab1\\Views\\Shared\\_Layout.cshtml",
@@ -264,12 +282,11 @@
               "RelativeToolTip": "nmqlab1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T00:49:34.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T00:49:34.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "script.js",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "nmqlab1\\wwwroot\\js\\script.js",
@@ -277,12 +294,11 @@
               "RelativeToolTip": "nmqlab1\\wwwroot\\js\\script.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-07T09:34:41.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T09:34:41.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "nmqlab1\\Views\\_ViewStart.cshtml",
@@ -290,12 +306,11 @@
               "RelativeToolTip": "nmqlab1\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T10:17:30.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T10:17:30.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Footer.cshtml",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Shared\\Footer.cshtml",
               "RelativeDocumentMoniker": "nmqlab1\\Views\\Shared\\Footer.cshtml",
@@ -303,12 +318,11 @@
               "RelativeToolTip": "nmqlab1\\Views\\Shared\\Footer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T09:46:30.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T09:46:30.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "nmqlab1\\Views\\Home\\Index.cshtml",
@@ -316,12 +330,11 @@
               "RelativeToolTip": "nmqlab1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T09:25:49.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T09:25:49.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "nmqlab1\\Views\\Shared\\_Layout.cshtml.css",
@@ -329,12 +342,11 @@
               "RelativeToolTip": "nmqlab1\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-07T09:26:01.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T09:26:01.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "nmqlab1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -342,12 +354,11 @@
               "RelativeToolTip": "nmqlab1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T09:25:51.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T09:25:51.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "nmqlab1\\Views\\Home\\Privacy.cshtml",
@@ -355,8 +366,7 @@
               "RelativeToolTip": "nmqlab1\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T09:25:50.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T09:25:50.555Z"
             },
             {
               "$type": "Document",
@@ -372,32 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "nmqlab1\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "nmqlab1\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAkwBwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T00:39:22.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "nmqlab1\\Models\\Student.cs",
-              "ToolTip": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Models\\Student.cs",
-              "RelativeToolTip": "nmqlab1\\Models\\Student.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA8wBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T00:34:59.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\webki1\\bainopweb\\nmqlab1\\nmqlab1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "nmqlab1\\Controllers\\HomeController.cs",
