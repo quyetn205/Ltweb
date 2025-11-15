@@ -13,11 +13,30 @@ namespace nmqlab4.Controllers
         {
             db = context;
         }
-        public IActionResult Index()
+        public IActionResult Index(int? mid)
         {
-            var learners = db.Learners.Include(m => m.Major).ToList();
-            return View(learners);
+            if (mid == null)
+            {
+                var learners=db.Learners.Include(m => m.Major).ToList();
+                return View(learners);
+            }
+            else
+            {
+                    var learners = db.Learners
+                    .Where(m => m.MajorId == mid)
+                    .Include(m => m.Major).ToList();
+                return View(learners);
+            }
         }
+
+        public IActionResult LearnerByMajorId(int mid)
+        {
+            var learners = db.Learners
+                .Where(m => m.MajorId == mid)
+                .Include(m => m.Major).ToList();
+            return PartialView("LearnerTable",learners);
+        }
+
         public IActionResult Create()
         {
             var majors=new List<SelectListItem>();
