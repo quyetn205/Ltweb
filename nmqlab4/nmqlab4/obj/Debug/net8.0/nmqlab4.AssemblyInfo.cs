@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nmqlab4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+309aa70f5653c278e273e415a798fe92e5c32f43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3757dd8f954bb061724d674c29334b6bc0f02e37")]
 [assembly: System.Reflection.AssemblyProductAttribute("nmqlab4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nmqlab4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

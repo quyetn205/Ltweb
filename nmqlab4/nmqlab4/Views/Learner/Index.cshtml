@@ -6,6 +6,14 @@
 <div class="ms-2 mx-2">
     <h1>Learner List</h1>
 	@await Component.InvokeAsync("Major")
+	<form class="d-none d-md-inline-block form-inline ms-auto me-0 me-md-3 my-2 my-md-0">
+		<div class="input-group">
+			<input id="keyword" class="form-control" name="keyword" type="text" placeholder="Search Learner"/>
+			<button id="btnSearch" class="btn btn-primary" type="button">
+				<i class="fas fa-search"></i>
+			</button>
+		</div>
+	</form>
     <div id="content">
 		<table class="table table-striped">
 			<thead>
@@ -35,13 +43,67 @@
 				}
 			</tbody>
 		</table>
+		<ul class="pagination">
+			@for (int i = 1; i <= ViewBag.pageNum; i++)
+			{
+				<li class="page-item" page="@i"
+					@(ViewBag.mid != null ? "mid='ViewBag.mid'" : "") 
+					@(ViewBag.Keyword != null ? "keyword='@ViewBag.keyword'" : "")>
+					<a class="page-link">@i</a>
+				</li>
+			}
+		</ul>
     </div>
     
     <a asp-action="Create" class="btn btn-primary">Create New Student</a>
 </div>
 @section Scriptss {
 	<script>
-		$("li").click(function (e){
+		
+
+		//thêm script ajax cho click vào page-item, nút search
+		   $('body').on('click', 'li.page-item', function (e) {
+			   var page = $(this).attr("page");
+			   var mid = $(this).attr("mid");
+			   var keyword = $(this).attr("keyword");
+			   var data = { mid: mid, keyword: keyword, pageIndex: page };
+			   $.ajax({
+				   url: '@Url.Action("LearnerFilter", "Learner")',
+
+				   data: data,
+				   success: function (response) {
+					   $("div#content").html(response);
+				   }
+			   });
+		   });
+
+		   $(".nav li").click(function (e) {
+			   var id = $(this).attr("id");
+			   var data = { mid: id };
+			   $.ajax({
+				   url: '@Url.Action("LearnerFilter", "Learner")',
+
+				   data: data,
+				   success: function (response) {
+					   $("div#content").html(response);
+				   }
+			   });
+		   });
+
+		   $("button#btnSearch").click(function (e) {
+			   var keyword = $("#keyword").val();
+			   var data = { keyword: keyword };
+			   $.ajax({
+				   url: '@Url.Action("LearnerFilter", "Learner")',
+
+				   data: data,
+				   success: function (response) {
+					   $("div#content").html(response);
+				   }
+			   });
+		   });
+
+		   $("li").click(function (e){
 			var id=$(this).attr("id");
 			$.ajax({
 				url: '@Url.Action("LearnerByMajorId", "Learner")',
